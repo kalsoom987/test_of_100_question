@@ -14,6 +14,5 @@ function swapPairs(str) {
 
     return result;
 }
-
 console.log(swapPairs("abcd"));   
 console.log(swapPairs("abcde"));  
